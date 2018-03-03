@@ -1,4 +1,4 @@
 read me
 It is a funny day
-sd
+license
 git is good
